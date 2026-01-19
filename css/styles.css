@@ -26,3 +26,8 @@ body {
 .div-general {
   background-color: grey;
 }
+body {
+  width: 400px;
+  margin: auto;
+}
+
