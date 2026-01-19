@@ -19,15 +19,17 @@ a {
   border-radius: 8px;
   margin: auto;
 }
-body {
-  border-style: solid;
-  margin: 50px;
-}
+
+ 
 .div-general {
+    margin: 100px;
+    border-radius: 18px;
   background-color: grey;
 }
-body {
-  width: 400px;
-  margin: auto;
-  margin-top: 100px;
+
+nav {
+  margin-bottom: 20px;
+  display: flex;
+  
+
 }
