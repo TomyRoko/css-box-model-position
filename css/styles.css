@@ -1,0 +1,28 @@
+.card-image img {
+  width: 200px;
+  display: block;
+  image-orientation: from-image;
+  margin: auto;
+}
+h2 {
+  text-align: center;
+}
+.primer-parrafo {
+  text-align: center;
+}
+a {
+  display: block;
+  border-style: outset;
+  width: 100px;
+  text-align: center;
+  text-align: center;
+  border-radius: 8px;
+  margin: auto;
+}
+body {
+  border-style: solid;
+  margin: 50px;
+}
+.div-general {
+  background-color: grey;
+}
